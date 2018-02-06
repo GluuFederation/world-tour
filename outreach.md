@@ -2,6 +2,7 @@
 
 - City of Montreal
 - Indigo
+- GroupHealth (BC)
 
 ## Europe
 
