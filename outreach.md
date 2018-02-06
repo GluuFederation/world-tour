@@ -16,7 +16,7 @@
 - Amido (London)
 - Onaware (Ireland)
 - Sagiton (Poland)
-
+- 3DS (Netherlands)
 
 ## Asia
 
@@ -29,4 +29,5 @@
 - Cogito 
 
 ## Africa
-- iCurity 
+- iCurity (South Africa)
+- Clane (Nigeria)
