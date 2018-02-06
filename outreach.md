@@ -15,6 +15,7 @@
 - NETFORMIC (Germany)
 - DAASI International (Germany)
 - Sagiton (Poland)
+- Apache Syncope (Italy) 
 - Tilaajavastuu (Finland / Belgium)
 - Nixu (Finland)
 
