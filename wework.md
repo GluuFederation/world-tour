@@ -4,7 +4,7 @@
 |Oct 1- 15|	Montreal|[Montreal](https://www.wework.com/l/montreal--QC)|
 |Oct 15 - Nov 15|	Germany| [Berlin](https://www.wework.com/l/berlin), [Munich](https://www.wework.com/l/munich), [Hamburg](https://www.wework.com/l/hamburg)|
 |Nov 15 - 30|	Italy| n/a|
-|Dec 1 - 31	|UK| [London](https://www.wework.com/l/london], [Manchester](https://www.wework.com/l/manchester)|
+|Dec 1 - 31	|UK| [London](https://www.wework.com/l/london), [Manchester](https://www.wework.com/l/manchester)|
 |Jan 1 - 31|	South Africa| n/a|
 |Feb 1 - 28|	India| [Mumbai](https://www.wework.com/l/mumbai), [New Delhi](https://www.wework.com/l/delhi-ncr--HR) |
 |Mar 1 - 30|	Israel| [Tel Aviv](https://www.wework.com/l/tel-aviv), [Jerusalem](https://www.wework.com/l/jerusalem), [Haifa](https://www.wework.com/l/haifa)| |
