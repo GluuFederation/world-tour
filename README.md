@@ -6,7 +6,7 @@ Plans for the 2018-2019 Gluu world tour.
 1. Strengthen the partner & FOSS community
 1. Build the customer base
 1. Promote Mike's book
-1. Sponsor RSA Asia
+1. Sponsor RSA Asia 2019 in Singapore
 1. Plant the seeds for GluuCon in Austin, ~ March 2020
 
 ## Current Itinerary
