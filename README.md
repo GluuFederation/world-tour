@@ -15,7 +15,7 @@ Plans for the 2018-2019 Gluu world tour.
 |Mar 1 - 30|	Israel|
 |April 1 - 15|	Amsterdam|
 |April 15 - 30|	Paris|
-|May 1 - 31	China |
+|May 1 - 31|	China |
 |Jun 1 - 30|	Australia|
 |Jul 1 - 15|	South East Asia Vacation|
 |July 15 - 31|	Singapore|
