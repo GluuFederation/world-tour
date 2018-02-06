@@ -11,6 +11,7 @@
 - Tilaajavastuu (Finland / Belgium)
 - Cornelsen (Germany)
 - Nixu (Finland)
+- DAASI (Germany)
 
 
 ## Asia
