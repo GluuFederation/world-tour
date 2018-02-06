@@ -14,7 +14,7 @@ Plans for the 2018-2019 Gluu world tour.
 In each city, we plan to:
 
 - Host a free meetup
-- Host a paid training session 
+- Host a paid training session (1-3 days total)
 - Film an interview with one local entrepreneur/founder building a business around open source software
 
 ## Current Itinerary
