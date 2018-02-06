@@ -10,6 +10,7 @@
 - Zalsman (Netherlands)
 - Tilaajavastuu (Finland / Belgium)
 - Cornelsen (Germany)
+- Nixu (Finland)
 
 
 ## Asia
