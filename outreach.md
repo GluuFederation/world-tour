@@ -6,17 +6,18 @@
 
 ## Europe
 
-- iWelcome (Amsterdam)
+- Amido (London)
+- Onaware (Ireland)
+- iWelcome (Netherlands)
 - Zalsman (Netherlands)
-- Tilaajavastuu (Finland / Belgium)
+- 3DS (Netherlands)
 - Cornelsen (Germany)
 - NETFORMIC (Germany)
 - DAASI International (Germany)
-- Nixu (Finland)
-- Amido (London)
-- Onaware (Ireland)
 - Sagiton (Poland)
-- 3DS (Netherlands)
+- Tilaajavastuu (Finland / Belgium)
+- Nixu (Finland)
+
 
 ## Asia
 
