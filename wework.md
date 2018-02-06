@@ -1,3 +1,5 @@
+## Rough Itinerary + WeWork Spotlight 
+
 |Dates	| Location| WeWork|
 |-------|--------------|----|
 |Sep 1 - 30|	NYC| [NYC](https://www.wework.com/l/new-york-city--NY)|
