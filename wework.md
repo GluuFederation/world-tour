@@ -1,6 +1,6 @@
 |Dates	| Location| WeWork|
 |-------|--------------|----|
-|Sep 1 - 30|	NYC| many to [choose from](https://www.wework.com/l/new-york-city--NY)|
+|Sep 1 - 30|	NYC| [NYC](https://www.wework.com/l/new-york-city--NY)|
 |Oct 1- 15|	Montreal|[Montreal](https://www.wework.com/l/montreal--QC)|
 |Oct 15 - Nov 15|	Germany| [Berlin](https://www.wework.com/l/berlin), [Munich](https://www.wework.com/l/munich), [Hamburg](https://www.wework.com/l/hamburg)|
 |Nov 15 - 30|	Italy| n/a|
