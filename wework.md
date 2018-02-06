@@ -1,4 +1,4 @@
-## Rough Itinerary + WeWork Spotlight 
+## Current Itinerary + WeWork Spotlight 
 
 |Dates	| Location| WeWork|
 |-------|--------------|----|
