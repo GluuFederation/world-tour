@@ -9,6 +9,11 @@ Plans for the 2018-2019 Gluu world tour.
 1. Sponsor RSA Asia 2019   
 1. Plant the seeds for GluuCon in Austin, TX ~ March 2020   
 
+## Deliverables
+
+- Host at least one meetup/training session in each city
+- Film an interview with one local open source entrepreneur/founder 
+
 ## Current Itinerary
 
 |Dates	| Location|
