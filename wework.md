@@ -16,3 +16,6 @@
 |Jun 1 - 30|	Australia| n/a| 
 |Jul 1 - 15|	South East Asia | n/a| 
 |July 15 - 31|	Singapore| [Singapore](https://www.wework.com/l/singapore)| 
+
+
+`*` Indicates DC will be joining us in part or in full 
