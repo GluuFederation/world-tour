@@ -27,3 +27,6 @@
 
 ## Australia
 - Cogito 
+
+## Africa
+- iCurity 
