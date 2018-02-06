@@ -18,4 +18,4 @@
 |July 15 - 31|	Singapore*| [Singapore](https://www.wework.com/l/singapore)| 
 
 
-`*` Indicates DC will be joining us in part or in full 
+`*` Indicates DC will be joining in part or in full 
