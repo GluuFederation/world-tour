@@ -36,4 +36,4 @@ In each city, we plan to:
 |Jul 1 - 15|	South East Asia Vacation|
 |July 15 - 31|	Singapore|
 
-*All dates and locations subject to change!
+*_All dates and locations subject to change!_
