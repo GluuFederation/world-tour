@@ -35,3 +35,5 @@ In each city, we plan to:
 |Jun 1 - 30|	Australia|
 |Jul 1 - 15|	South East Asia Vacation|
 |July 15 - 31|	Singapore|
+
+* All dates and locations subject to change!
