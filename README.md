@@ -15,7 +15,7 @@ In each city, we plan to:
 
 - Host meetup
 - Host training session (1-3 days total)
-- Film interview with one or more local entrepreneur(s)/founder(s) building a business around open source software
+- Film interview local entrepreneur(s)/founder(s) building a business around open source software
 
 ## Itinerary*
 
