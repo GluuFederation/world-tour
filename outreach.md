@@ -2,19 +2,19 @@
 ### Austin
   - Cloudera
 ### NYC
-- Montreal
-- Germany
-- Italy
-- UK
-- South Africa
-- India
-- Israel
-- Amsterdam
-- Paris
-- China
-- Australia
-- SE Asia
-- Singapore
+### Montreal
+### Germany
+### Italy
+### UK
+### South Africa
+### India
+### Israel
+### Amsterdam
+### Paris
+### China
+### Australia
+### SE Asia
+### Singapore
 
 
 
