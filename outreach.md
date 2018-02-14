@@ -8,6 +8,7 @@
 ### Italy
 ### UK
   - [Canonical](https://www.canonical.com/) 
+  - [Sonatype](https://www.sonatype.com/about-sonatype)
 ### South Africa
 ### India
 ### Israel
@@ -15,6 +16,7 @@
 ### Paris
 ### China
 ### Australia
+  - [Sonatype](https://www.sonatype.com/about-sonatype)
 ### SE Asia
 ### Singapore
 
