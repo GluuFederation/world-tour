@@ -1,10 +1,45 @@
-## Canada
+## Founder Interviews
+- Austin
+  - Cloudera
+
+- NYC
+
+- Montreal
+
+- Germany
+
+- Italy
+
+- UK
+
+- South Africa
+
+- India
+
+- Israel
+
+- Amsterdam
+
+- Paris
+
+- China
+
+- Australia
+
+- SE Asia
+
+- Singapore
+
+
+
+## Customers & Partners
+### Canada
 
 - City of Montreal
 - Indigo (Montreal)
 - GroupHealth (BC)
 
-## Europe
+### Europe
 
 - Amido (London)
 - Onaware (Ireland)
@@ -20,16 +55,16 @@
 - Nixu (Finland)
 
 
-## Asia
+### Asia
 
 - Tilaajavastuu (Shanghai)
 - Intelimina Systems (Philippines)
 - Falcon SC (Japan)
 - Aplikas Servis Persona (Indonesia)
 
-## Australia
+### Australia
 - Cogito 
 
-## Africa
+### Africa
 - iCurity (South Africa)
 - Clane (Nigeria)
