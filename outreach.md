@@ -1,11 +1,13 @@
 ## Founder Interviews
 ### Austin
-  - Cloudera
+  - [Cloudera](https://www.cloudera.com/)
 ### NYC
 ### Montreal
 ### Germany
+  - [SUSE](https://www.suse.com/) 
 ### Italy
 ### UK
+  - [Canonical](https://www.canonical.com/) 
 ### South Africa
 ### India
 ### Israel
