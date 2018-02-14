@@ -16,7 +16,6 @@
 ### Paris
 ### China
 ### Australia
-  - [Sonatype](https://www.sonatype.com/about-sonatype)
 ### SE Asia
 ### Singapore
 
