@@ -14,7 +14,7 @@
 |April 15 - 30|	Paris| [Paris](https://www.wework.com/l/paris)|
 |May 1 - 31|	China*| [Hong Kong](https://www.wework.com/l/hong-kong), [Shanghai](https://www.wework.com/l/shanghai--31)|
 |Jun 1 - 30|	Australia| n/a| 
-|Jul 1 - 15|	South East Asia* | n/a| 
+|Jul 1 - 15|	South East Asia | n/a| 
 |July 15 - 31|	Singapore*| [Singapore](https://www.wework.com/l/singapore)| 
 
 
