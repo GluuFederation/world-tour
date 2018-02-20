@@ -9,6 +9,7 @@
 - [Netherlands](#netherlands)
 - [France](#france)
 - [China](#china)
+- [Hong Kong](#hongkong)
 - [Australia](#australia)
 - [Singapore](#singapore)
 
