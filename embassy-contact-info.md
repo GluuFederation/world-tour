@@ -1,8 +1,6 @@
-#GERMANY
-##U.S. Embassy Berlin
-- Clayallee 170,
-- 14191 Berlin
-- Germany
+# GERMANY
+## U.S. Embassy Berlin
+- Clayallee 170, 14191 Berlin, Germany
 - Telephone: +(49)(30) 8305-1200 (routine calls, 2-4 p.m. Monday-Friday, except on U.S. and German holidays, and the last Thursday of each month.)
 - Emergency After-Hours Telephone: +(49)(30) 8305-0
 - Fax: +(49)(30) 8305-1215
