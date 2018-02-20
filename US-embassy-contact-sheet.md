@@ -3,6 +3,17 @@
 - [Germany](#germany)
 - [Italy](#italy)
 - [England](#england)
+- [South Africa](#southafrica)
+- [India](#india)
+- [Israel](#israel)
+- [Netherlands](#netherlands)
+- [France](#france)
+- [China](#china)
+- [Australia](#australia)
+- [Singapore](#singapore)
+
+
+
 
 ## GERMANY
 ### U.S. Embassy Berlin
