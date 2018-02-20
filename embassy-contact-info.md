@@ -7,8 +7,6 @@
 - ACSBerlin@state.gov
 
 
-
-
 # ITALY
 ## U.S. Embassy Rome
 - Via Vittorio Veneto, 121, 00187 Rome, Italy
@@ -17,8 +15,6 @@
 - Fax: +(39) 06-4674-2244
 - The Rome consular district include the regions of Lazio, Marche, Umbria, Abruzzo, and Sardegna.
 - uscitizensrome@state.gov
-
-
 
 
 # ENGLAND
