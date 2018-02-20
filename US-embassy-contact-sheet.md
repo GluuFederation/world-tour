@@ -1,4 +1,4 @@
-# US Embassy Contact Sheet :satellite:
+# US Embassy Contact Sheet :phone:
 
 - [Germany](#germany)
 - [Italy](#italy)
