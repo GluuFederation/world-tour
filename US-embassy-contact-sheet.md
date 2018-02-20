@@ -1,5 +1,8 @@
 # US Embassy Contact Sheet
 
+- [Germany](#germany)
+- [Italy](#italy)
+- [England](#england)
 
 ## GERMANY
 ### U.S. Embassy Berlin
