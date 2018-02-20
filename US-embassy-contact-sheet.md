@@ -1,4 +1,4 @@
-# US Embassy Contact Sheet :european_post_office:
+# US Embassy Contact Sheet :satellite:
 
 - [Germany](#germany)
 - [Italy](#italy)
