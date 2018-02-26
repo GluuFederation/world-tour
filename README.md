@@ -1,5 +1,5 @@
-# Gluu World Tour 
-Plans for the 2018-2019 Gluu world tour. 
+# Gluu World Tour
+Plans for the 2018-2019 Gluu world tour.
 
 ## Objectives
 
@@ -21,19 +21,21 @@ In each city, we plan to:
 
 |Dates	| Location|
 |-------|--------------|
-|Sep 1 - 30|	NYC|
-|Oct 1- 15|	Montreal|
-|Oct 15 - Nov 15|	Germany|
-|Nov 15 - 30|	Italy|
-|Dec 1 - 31	|UK|
-|Jan 1 - 31|	South Africa|
-|Feb 1 - 28|	India|
-|Mar 1 - 30|	Israel|
-|April 1 - 15|	Amsterdam|
-|April 15 - 30|	Paris|
+|Sep 1 - Oct 7 |	NYC |
+|Oct 9 - Oct 21 |	Montreal |
+|Oct 22 - Oct 28 | Raleigh |
+|Oct 29 - Nov 30 | Germany |
+|Dec 1 - Dec 23	| London / Dublin |
+|Dec 27 - Jan 13| Joburg South Africa |
+|Jan 14 - 20 | Dubai |
+|Jan 21 - 27 | Abu Dhabi |
+|Feb 1 - 28|	Israel |
+|Mar 1 - 30|	India |
+|April 1 - 15|	Amsterdam |
+|April 15 - 30|	Paris |
 |May 1 - 31|	China |
-|Jun 1 - 30|	Australia|
-|Jul 1 - 15|	South East Asia Vacation|
-|July 15 - 31|	Singapore|
+|Jun 1 - 30|	Australia |
+|Jul 1 - 15|	South East Asia Vacation |
+|July 15 - 31|	Singapore |
 
 *_All dates and locations subject to change!_
