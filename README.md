@@ -21,20 +21,21 @@ In each city, we plan to:
 
 |Dates	| Location|
 |-------|--------------|
-|Sep 1 - Oct 7 |	NYC |
-|Oct 9 - Oct 21 |	Montreal |
+|Sep 3 - Oct 7 |	NYC |
+|Oct 8 - Oct 21 |	Montreal |
 |Oct 22 - Oct 28 | Raleigh |
-|Oct 29 - Nov 30 | Germany |
-|Dec 1 - Dec 23	| London / Dublin |
-|Dec 27 - Jan 13| Joburg South Africa |
-|Jan 14 - 20 | Dubai |
-|Jan 21 - 27 | Abu Dhabi |
+|Oct 29 - Nov 11 | Italy |
+|Nov 12 - Nov  30 | Munich, Berlin |
+|Dec 1 - Dec 26	| London / Dublin |
+|Dec 27 - Jan 13| Joburg, South Africa |
+|Jan 14 - 20 | Dubai, UAE |
+|Jan 21 - 27 | Abu Dhabi, UAE |
 |Feb 1 - 28|	Israel |
 |Mar 1 - 30|	India |
 |April 1 - 15|	Amsterdam |
 |April 15 - 30|	Paris |
-|May 1 - 31|	China |
-|Jun 1 - 30|	Australia |
+|May 1 - 31|	Hong Kong, Shanghai, Seoul, Tokyo |
+|Jun 1 - 30|	Sydney, Melbourne, New Zealand |
 |Jul 1 - 15|	South East Asia Vacation |
 |July 15 - 31|	Singapore |
 
