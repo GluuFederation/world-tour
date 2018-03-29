@@ -1,4 +1,4 @@
-## C). urrent Itinerary + WeWork Spotlight 
+## Current Itinerary + WeWork Spotlight 
 
 [Google sheet w/ latest itinerary](https://docs.google.com/spreadsheets/d/1_bPIQD0aP_-2ydCsFFizqjB-6MPbmBQpFjInjZ7GBlY/edit#gid=0). 
 
