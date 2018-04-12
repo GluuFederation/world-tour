@@ -15,28 +15,35 @@ In each city, we plan to:
 
 - Host meetup
 - Host training session (1-3 days total)
-- Film interview local entrepreneur(s)/founder(s) building a business around open source software
+- Record podcast with local entrepreneur(s)/founder(s) building a business around open source software
 
 ## Itinerary*
 
-|Dates	| Location|
-|-------|--------------|
-|Sep 3 - Oct 7 |	NYC |
-|Oct 8 - Oct 21 |	Montreal |
-|Oct 22 - Oct 28 | Raleigh |
-|Oct 29 - Nov 11 | Italy |
-|Nov 12 - Nov  30 | Munich, Berlin |
-|Dec 1 - Dec 26	| London / Dublin |
-|Dec 27 - Jan 13| Joburg, South Africa |
-|Jan 14 - 20 | Dubai, UAE |
-|Jan 21 - 27 | Abu Dhabi, UAE |
-|Feb 1 - 28|	Israel |
-|Mar 1 - 30|	India |
-|April 1 - 15|	Amsterdam |
-|April 15 - 30|	Paris |
-|May 1 - 31|	Hong Kong, Shanghai, Seoul, Tokyo |
-|Jun 1 - 30|	Sydney, Melbourne, New Zealand |
-|Jul 1 - 15|	South East Asia Vacation |
-|July 15 - 31|	Singapore |
+| Date   | Day   | Start Location | End Location |
+|--------|-------|----------------|--------------|
+| Sep 1  | Sat   | Austin         | NYC          |
+| Sep 9  | Sun   | SFO            | NYC*         |
+| Sep 30 | Sun   | NYC            | Montreal     | 
+| Oct 14 | Sun   | Montreal       | DC           |
+| Oct 21 | Sun   | DC             | Raleigh      |
+| Oct 26 | Fri   | Raleigh        | Italy        |
+| Nov 4  | Sun   | Italy          | Munich       |
+| Nov 18 | Sun   | Munich         | Berlin*      |
+| Dec 1  | Sat   | Berlin         | London*      |
+| Dec 27 | Thurs | London         | JBurg*       |
+| Jan 12 | Sat   | Jburg          | Dubai        |
+| Jan 27 | Sun   | Dubai          | Tel Aviv     |
+| Mar 2  | Sat   | Tel Aviv       | Mumbai       |
+| Mar 30 | Sat   | New Dheli      | Amsterdam*   |
+| May 4  | Sat   | Paris          | Shanghai*    |
+| May 12 | Sun   | Shanghai       | Hong Kong*   |
+| May 19 | Sun   | Hong Kong      | Seoul*       |
+| May 26 | Sun   | Seoul          | Tokyo*       |        
+| Jun 2  | Sun   | Tokyo          | Sydney*      |        
+| Jun 16 | Sun   | Melbourne      | Thailand     |        
+| Jun 30 | Sun   | Thailand       | Singapore*   |        
+| Jul 28 | Sun   | Singapore      | Austin       |        
+
+
 
 *_All dates and locations subject to change!_
