@@ -21,7 +21,8 @@ In each city, we plan to:
 
 | Date   | Day   | Start Location | End Location |
 |--------|-------|----------------|--------------|
-| Sep 1  | Sat   | Austin         | NYC          |
+| Aug 18  | Sat   | Austin         | SF          |
+| Sep 1  | Sat   | SF         | NYC          |
 | Sep 9  | Sun   | SFO            | NYC*         |
 | Sep 30 | Sun   | NYC            | Montreal     | 
 | Oct 14 | Sun   | Montreal       | DC           |
