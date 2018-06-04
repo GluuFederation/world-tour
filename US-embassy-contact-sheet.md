@@ -140,7 +140,7 @@ are calling from within India, but outside Mumbai, first dial 022.
 - acshk@state.gov
 
 
-## AUSTALIA
+## AUSTRALIA
 ### U.S. Consulate General Sydney
 - MLC Centre, Level 10, 19-29 Martin Place, Sydney, NSW 2000, Australia
 - Telephone: +(61) (2) 9373-9200
