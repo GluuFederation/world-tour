@@ -1,4 +1,4 @@
 - podcast: booking / scheduling interviewees, production, editing, publishing
-- manage wt website/blog and social media account (instagram)
-- email marketing for world tour
+- website: manage WT website/blog 
+- marketing: email marketing for world tour, and social media account (instagram)
 - trainings: check-in guests, help with food/coffee (if applicable) and random requests from trainees 
