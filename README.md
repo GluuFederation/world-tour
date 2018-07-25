@@ -12,9 +12,9 @@ See plans for the 2018-2019 Gluu world tour: https://gluuworldtour.com
 
 In each city, we plan to:
 
-- Host meetup
-- Host training session (1-3 days total)
-- Record podcast with local entrepreneur(s)/founder(s) building a business around open source software
+- Offer free & paid training sessions
+- Host meetups to build the local community
+- Record podcasts with local entrepreneurs and founders building businesses around open source software
 
 ## Itinerary
 
