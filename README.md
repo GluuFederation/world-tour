@@ -3,11 +3,10 @@ See plans for the 2018-2019 Gluu world tour: https://gluuworldtour.com
 
 ## Objectives
 
-1. Strengthen the partner & FOSS community
-1. Build the customer base
-1. Promote Mike's book
-1. Sponsor RSA Asia 2019   
-1. Plant the seeds for GluuCon in Austin, TX ~ March 2020   
+1. Strengthen our partner & open source community
+1. Build our customer base
+1. Promote Mike's soon-to-be-released book: [Deploying Identity & Access Management with Free Open Source Software](https://www.apress.com/us/book/9781484226001)
+1. Sponsor RSA Asia 2019 in Singapore  
 
 ## Activities
 
