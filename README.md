@@ -7,6 +7,7 @@ See plans for the 2018-2019 Gluu world tour: https://gluuworldtour.com
 1. Build our customer base
 1. Promote Mike's soon-to-be-released book: [Deploying Identity & Access Management with Free Open Source Software](https://www.apress.com/us/book/9781484226001)
 1. Sponsor RSA Asia 2019 in Singapore  
+1. Plant the seeds for GluuCon 2020 in Austin, TX..!
 
 ## Activities
 
